@@ -1,14 +1,14 @@
-# Obscura
+# Derez
 
 **"Shedding light on the black box of AI."**
 
-Obscura is a Python library for Explainable AI (XAI), designed to decode and visualize machine learning model predictions. It pioneers new methods for interpretability, focusing on deeper insights, enhanced visualizations, and actionable transparency.
+Derez is a Python library for Explainable AI (XAI), designed to decode and visualize machine learning model predictions. It pioneers new methods for interpretability, focusing on deeper insights, enhanced visualizations, and actionable transparency.
 
 ---
 
 ## About the Project
 
-Obscura introduces a novel approach to explainability, addressing key gaps in existing methodologies. It is built to:
+Derez introduces a novel approach to explainability, addressing key gaps in existing methodologies. It is built to:
 
 - **Deliver Contextual Explanations**: Generate explanations tailored to the specific context of predictions for actionable insights.
 - **Provide Hierarchical Interpretability**: Reveal relationships between features, not just their individual contributions.
@@ -18,9 +18,9 @@ Obscura introduces a novel approach to explainability, addressing key gaps in ex
 
 ---
 
-## Why Obscura?
+## Why Derez?
 
-Obscura redefines explainability by moving beyond traditional approaches to model interpretation. Its unique innovations include:
+Derez redefines explainability by moving beyond traditional approaches to model interpretation. Its unique innovations include:
 
 1. **Context-Aware Explanations**: Insights are dynamic, adapting to the operational environment and data context.
 2. **Advanced Visualizations**: Clear, interactive visuals that make even complex models interpretable for technical and non-technical users alike.
@@ -42,17 +42,17 @@ This project is in its early stages, and planned features include:
 
 ## How You Can Help
 
-Obscura is in its infancy, and your contributions, feedback, and ideas are invaluable. Here’s how you can help:
+Derez is in its infancy, and your contributions, feedback, and ideas are invaluable. Here’s how you can help:
 
 1. **Share Ideas**: Suggest features or improvements by opening an issue.
 2. **Collaborate on Development**: Join the project as it evolves by contributing code, documentation, or testing.
-3. **Spread the Word**: Share Obscura with your network to help grow a community of AI practitioners focused on explainability and trust.
+3. **Spread the Word**: Share Derez with your network to help grow a community of AI practitioners focused on explainability and trust.
 
 ---
 
 ## License
 
-Obscura is licensed under the **MIT License**. See [LICENSE](LICENSE) for more details.
+Derez is licensed under the **MIT License**. See [LICENSE](LICENSE) for more details.
 
 ---
 
